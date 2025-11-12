@@ -1,2 +1,23 @@
 # redteam-research
-Explore red‑team techniques — learn the tradecraft and how to detect it (safe demos &amp; playbooks).
+
+A public repository to showcase safe research and learning about red-team techniques.  
+This repo contains:
+
+- Safe, non-executable demos (no malware)  
+- Analysis writeups and notes on attacker techniques  
+- Detection rules (YARA/Sigma) and lab exercises  
+
+> **Responsible Use:** Everything here is for learning and defensive purposes only. No malware or exploits are included. Sensitive materials are kept private and shared only under NDA.
+
+---
+
+## Why this repo exists
+
+`redteam-research` is designed to show:
+
+- Understanding of Windows internals, registry, and low-level behaviors  
+- How attackers operate conceptually, and how to detect them  
+- Safe demos and examples that demonstrate the techniques  
+
+---
+
