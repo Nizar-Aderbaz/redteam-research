@@ -1,4 +1,4 @@
-# Red Team Research 🛡️
+# Red Team Research
 
 A collection of security research focused on understanding how systems can be tested and strengthened.
 
