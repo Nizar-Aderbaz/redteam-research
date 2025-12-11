@@ -1,7 +1,7 @@
 # Windows Privilege Escalation – Simple Walkthrough
 
 This project includes a full YouTube video where I explain several Windows privilege escalation techniques in a clear and simple way.  
-Video link: **[Watch the Video]((https://www.youtube.com/watch?v=UVpKGDhLRPc))**
+Video link: **[Watch the Video](https://www.youtube.com/watch?v=UVpKGDhLRPc)**
 
 ## What I Show in the Video
 In the video, I walk through many real techniques step by step, including:
